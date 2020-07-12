@@ -1,0 +1,2 @@
+docs:https://medium.com/@nohorse/hosting-blazor-on-itch-io-9621c532ff33
+butler push wwwroot markdav/FishSHop:html
